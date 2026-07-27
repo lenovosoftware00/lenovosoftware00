@@ -7,7 +7,7 @@
 
 <div align="left">
   
-**🛡️**&nbsp;&nbsp;&nbsp;***I'm***
+#**🛡️**&nbsp;&nbsp;&nbsp;***I'm***
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&height=130&text=🔮%20QUICK%20%20LEARNER&fontSize=45&fontColor=ffffff&animation=twinkling&color=0:020617,100:2563EB"/>
@@ -19,7 +19,7 @@
 ----
 
 
-<p align="left">
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=900&size=28&duration=2500&pause=1200&color=2563EB&center=false&vCenter=true&width=900&height=80&lines=Fresher;Creative;Hard+Working;Leveling+Up+Skills;Active+Learner;Learning+to+Code;Problem+Solver;Team+Player;Quick+Learner;Data+Analytics+Enthusiast;Business+Intelligence+Explorer;Python+Developer;SQL+Learner;Power+BI+Enthusiast;Excel+Specialist;Always+Improving;Ready+to+Learn;Future+Software+Engineer;Open+to+Opportunities;Building+Something+Every+Day" />
 </p>
 
