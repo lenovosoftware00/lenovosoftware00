@@ -7,7 +7,7 @@
 
 <div align="left">
   
-#**🛡️**&nbsp;&nbsp;&nbsp;***I'm***
+<h3>🛡️&nbsp;&nbsp;&nbsp;I'm </h3>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&height=130&text=🔮%20QUICK%20%20LEARNER&fontSize=45&fontColor=ffffff&animation=twinkling&color=0:020617,100:2563EB"/>
